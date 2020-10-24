@@ -1,0 +1,48 @@
+input , textarea {
+    width: 100%;
+    border: none;
+}
+
+form {
+    background-size: contain; 
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-repeat: no-repeat;
+    padding: 20px;
+
+    margin-left: 20px;
+    margin-bottom: 60px;
+
+    border-radius: 10px;
+    background-color: rgb(173, 173, 173);
+}
+
+form div input {
+    display: block;
+}
+
+form div{
+    margin-top: 5px;
+}
+
+.container , div {
+    display: block;
+}
+
+.maps {
+    text-align: center;
+    margin-top: 15px;
+    height: 100%;
+    width: 100%;
+    background: rgb(255, 255, 255);
+}
+
+section {
+    border-radius: 5px;
+}
+
+label {
+    font-family: 'Caveat', cursive;
+    font-size: 20px; 
+}
